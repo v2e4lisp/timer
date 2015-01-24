@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    padding:0;
+    margin:0;
+}
+
+div.main {
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    width: 100%;
+    height: 100%;
+}
+
+section.item {
+    margin-top: 10%;
+    margin-left: 10%;
+    height: 20%;
+    width: 80%;
+    font-size: 42px;
+}
+
